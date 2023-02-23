@@ -594,7 +594,6 @@ PRODUCT_PACKAGES += \
     uimlpaservice \
     uimremoteclient \
     uimremoteserver \
-    workloadclassifier \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
