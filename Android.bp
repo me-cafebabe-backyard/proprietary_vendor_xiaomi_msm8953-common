@@ -259,18 +259,6 @@ dex_import {
 }
 
 dex_import {
-	name: "QPerformance",
-	owner: "xiaomi",
-	jars: ["proprietary/system/framework/QPerformance.jar"],
-}
-
-dex_import {
-	name: "UxPerformance",
-	owner: "xiaomi",
-	jars: ["proprietary/system/framework/UxPerformance.jar"],
-}
-
-dex_import {
 	name: "tcmclient",
 	owner: "xiaomi",
 	jars: ["proprietary/system/framework/tcmclient.jar"],
