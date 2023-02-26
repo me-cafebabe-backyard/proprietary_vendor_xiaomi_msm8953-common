@@ -226,7 +226,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8953-common/proprietary/vendor/firmware/a530_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_pm4.fw \
     vendor/xiaomi/msm8953-common/proprietary/vendor/firmware/cpp_firmware_v1_10_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_10_0.fw \
     vendor/xiaomi/msm8953-common/proprietary/vendor/firmware/cpp_firmware_v1_12_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_12_0.fw \
-    vendor/xiaomi/msm8953-common/proprietary/vendor/firmware/cpp_firmware_v1_12_1.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_12_1.fw \
     vendor/xiaomi/msm8953-common/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_1_1.fw \
     vendor/xiaomi/msm8953-common/proprietary/vendor/firmware/cpp_firmware_v1_1_6.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_1_6.fw \
     vendor/xiaomi/msm8953-common/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_2_0.fw \
